@@ -10,12 +10,20 @@ body {
 }
 
 .quiz-container {
+    width:100%;
+    height:100%;
+    max-width: 1000px;
+    max-height: 500px;
+    padding: 20px;
     background-image:linear-gradient(rgb(249, 249, 249),rgb(188, 187, 242));
     border-radius: 5px;
     box-shadow: 1px 0 10px rgba(238, 224, 224, 0.6);
+    text-align: center;
 }
 
 .header {
+    display: flex;
+    justify-content: space-between;
     align-items: center;
 }
 
@@ -40,14 +48,31 @@ body {
     margin-bottom: 30px;
 }
 
+#options {
+    text-align: left;
+    margin-bottom: 30px;
+
+}
 
 label {
+    display: block;
     margin-bottom: 15px;
     font-size: 20px;
 }
 
 input[type="radio"] {
     margin-right: 10px;
+}
+
+#next-button {
+    font-size: 20px;
+    background-color: #370969;
+    color: #fff;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 5px;
+    cursor: pointer;
+    border-radius:50px
 }
 
 
