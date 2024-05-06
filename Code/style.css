@@ -72,7 +72,8 @@ input[type="radio"] {
     padding: 15px 30px;
     border-radius: 5px;
     cursor: pointer;
-    border-radius:50px
+    border-radius:50px;
+    text-decoration: none;
 }
 
 
@@ -102,13 +103,26 @@ input[type="radio"] {
 .option:hover {
     background-image: linear-gradient( rgb(219, 184, 213),rgb(249, 227, 231));
 }
+
 #back-button {
     font-size: 20px;
     background-color:#370969;
     color: #fff;
     border: none;
     padding: 15px 30px;
-    border-radius: 5px
+    border-radius: 5px;
     cursor: pointer;
     border-radius:50px
+}
+
+#check-answer-button {
+    font-size: 20px;
+    background-color: #370969;
+    color: #fff;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 5px;
+    cursor: pointer;
+    border-radius: 50px;
+    text-decoration: none;
 }
