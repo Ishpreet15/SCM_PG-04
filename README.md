@@ -71,5 +71,24 @@ Dive into the world of knowledge with our interactive quiz game! Crafted with HT
 - **Submit project**: Submitted the completed project, along with all relevant documentation and artifacts, to stakeholders or relevant authorities for evaluation and approval.
 
 
+## 🚀 Key Features:
+
+1. **Interactive Quizzes:** Engage users with interactive quizzes covering a wide range of topics and difficulty levels.
+2. **Customizable Experience:** Allow users to customize their quiz experience by selecting specific topics, adjusting difficulty levels, and setting preferences according to their learning needs.
+3. **Immediate Feedback:** Provide instant feedback on users' answers to facilitate active learning and reinforce understanding.
+4. **Progress Tracking:** Enable users to track their performance and progress over time with scoring mechanisms and progress indicators.
+5. **Diverse Content:** Curate a diverse collection of quiz questions across various subjects, ensuring something for everyone.
+6. **Responsive Design:** Ensure seamless accessibility across devices with a responsive design that adapts to desktops, tablets, and smartphones.
+7. **User Profiles:** Offer optional user registration functionality for users to create profiles, save progress, and track achievements.
+8. **Social Sharing:** Enable users to share their quiz results and achievements on social media platforms, fostering community engagement and friendly competition.
+9. **Performance Optimization:** Optimize performance for fast loading times and smooth operation, even under high traffic conditions.
+10. **Feedback Mechanism:** Gather user feedback to continuously improve the platform's features, content, and user experience.
+11. **Open Source:** Provide the source code under an open-source license, allowing for community contributions and collaboration.
+12. **Documentation:** Include comprehensive documentation to guide users on how to use the platform effectively and contribute to its development.
+13. **Multi-Language Support:** Support multiple languages to cater to a diverse user base worldwide.
+14. **Accessibility Features:** Implement accessibility features to ensure inclusivity for users with disabilities.
+15. **Security Measures:** Implement security measures to safeguard user data and ensure a secure browsing experience.
+
+
 ## ⏳ Deadline
 The deadline for the completion of this project is 10 May 2024.⌛
