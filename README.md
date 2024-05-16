@@ -30,6 +30,11 @@
 
 Dive into the world of knowledge with our interactive quiz game! Crafted with HTML, CSS, and perhaps a sprinkle of JavaScript magic, this game delivers a seamless experience across devices. 🌟 Engage users with captivating questions and multiple-choice options, guiding them through an educational adventure. 🚀 Navigate effortlessly through questions using intuitive buttons while basking in the stylish design featuring gradient backgrounds and sleek fonts. 🎨 Keep track of your progress with a handy score counter, turning learning into a thrilling quest for points. 📈 Get ready to embark on a journey where learning meets fun.
 
+## <a name="tech-stack">⚙️ Tech Stack</a>
+
+- [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) - HTML is the standard markup language for Web pages
+- [JavaScript](https://tc39.es/) - JS is an Open source runtime environment, built on the Chrome browser's V8 engine
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - CSS describes how HTML elements should be displayed
 
 # Project Timeline
 
