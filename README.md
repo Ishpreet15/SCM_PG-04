@@ -15,6 +15,12 @@
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Ishpreet15/SCM_PG-04)
 
 
+## <a name="owners">🔑 OWNERS</a> 
+
+`Primary Owner`-: </br> </br>   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F70B2D&random=false&width=435&lines=Ishpreet+Kaur" alt="Typing SVG" /></a> </br>
+`Secondary Owner`-: </br> </br>  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F70B2D&random=false&width=435&lines=Aniket+Singla" alt="Typing SVG" /></a>  </br> 
+`Teritary Owner`-: </br> </br>  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F70B2D&random=false&width=435&lines=Ishika+Dhawan" alt="Typing SVG" /></a>
+
 ## 🚀 Team Members
 - **[Aniket Singla [2310992100] - @AniketSingla](https://github.com/AniketSingla)** 🧑‍💻
 - **[Ishika [2310992101]- @issue05](https://github.com/issue05)** 👩‍💻
@@ -23,6 +29,7 @@
 ## 🎮 Project Overview: Quiz Game 🧠
 
 Dive into the world of knowledge with our interactive quiz game! Crafted with HTML, CSS, and perhaps a sprinkle of JavaScript magic, this game delivers a seamless experience across devices. 🌟 Engage users with captivating questions and multiple-choice options, guiding them through an educational adventure. 🚀 Navigate effortlessly through questions using intuitive buttons while basking in the stylish design featuring gradient backgrounds and sleek fonts. 🎨 Keep track of your progress with a handy score counter, turning learning into a thrilling quest for points. 📈 Get ready to embark on a journey where learning meets fun.
+
 
 # Project Timeline
 
