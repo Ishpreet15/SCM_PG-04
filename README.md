@@ -4,6 +4,7 @@
 ## Project Information 📃
 - **Primary Owner:** Ishpreet Kaur
 - **Secondary Owner:** Ishika Dhawan
+- **Tertiary Owner:** Aniket Singla
 
 ## 🚀 Team Members
 - **[Aniket Singla [2310992100] - @AniketSingla](https://github.com/AniketSingla)** 🧑‍💻
