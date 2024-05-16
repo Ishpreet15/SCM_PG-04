@@ -4,7 +4,7 @@
 ## Project Information 📃
 - **Primary Owner:** Ishpreet Kaur
 - **Secondary Owner:** Ishika Dhawan
-- **Tertiary Owner:** Aniket Singla
+- **Tertiary Owner:** <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7233A&random=false&width=435&lines=Aniket+Singla" alt="Typing SVG" /></a>
 
 ## 🚀 Team Members
 - **[Aniket Singla [2310992100] - @AniketSingla](https://github.com/AniketSingla)** 🧑‍💻
