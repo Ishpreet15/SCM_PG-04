@@ -14,13 +14,6 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/Ishpreet15/SCM_PG-04)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Ishpreet15/SCM_PG-04)
 
-## Project Information 📃
-- `**Primary Owner:**`
-  </br> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7233A&random=false&width=435&lines=Ishpreet+Kaur" alt="Typing SVG" /></a>
-- `**Secondary Owner:**`
-  </br> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7233A&random=false&width=435&lines=Ishika+Dhawan" alt="Typing SVG" /></a>
-- `**Tertiary Owner:**`
-  </br> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7233A&random=false&width=435&lines=Aniket+Singla" alt="Typing SVG" /></a>
 
 ## 🚀 Team Members
 - **[Aniket Singla [2310992100] - @AniketSingla](https://github.com/AniketSingla)** 🧑‍💻
@@ -35,6 +28,9 @@ Dive into the world of knowledge with our interactive quiz game! Crafted with HT
 
 ## [26-4-2024] - ` Milestone 1 `
 
+`Primary Owner: Ishpreet Kaur`
+`Secondary Owner: Ishika`
+
 - **Set up project repository**: Created the project repository on GitHub to facilitate collaboration among team members.
   
 - **Define project scope**: Outlined the goals, objectives, and deliverables of the project to ensure clarity and alignment among stakeholders.
@@ -42,6 +38,9 @@ Dive into the world of knowledge with our interactive quiz game! Crafted with HT
 - **Initial design sketches**: Developed preliminary design sketches to visualize the user interface and user experience of the project.
   
 ## [29-4-2024] -` Milestone 2 `
+
+`Primary Owner: Ishika`
+`Secondary Owner: Aniket Singla`
 
 - **Complete frontend development**: Finished implementing the user interface components and styling to ensure a polished and user-friendly interface.
   
@@ -51,6 +50,9 @@ Dive into the world of knowledge with our interactive quiz game! Crafted with HT
 
 ## [3-5-2024] -` Milestone 3 `
 
+`Primary Owner: Ishpreet Kaur`
+`Secondary Owner: Aniket Singla`
+
 - **Finish testing**: Conducted thorough testing of the application to ensure its stability, reliability, and performance under various scenarios.
   
 - **Finalize documentation**: Compiled comprehensive documentation, including user guides, API references, and technical specifications, to support users and developers.
@@ -58,6 +60,9 @@ Dive into the world of knowledge with our interactive quiz game! Crafted with HT
 - **Prepare for project submission**: Completed all necessary preparations, including packaging the application and organizing project files, for submission.
 
 ## [10-5-2024] -` Completion `
+
+`Primary Owner: Ishpreet Kaur`
+`Secondary Owner: Ishika`
 
 - **Complete final checks**: Performed a final review and quality assurance checks to ensure all requirements were met and the project was ready for deployment.
   
