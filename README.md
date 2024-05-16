@@ -1,10 +1,26 @@
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=59&pause=1000&color=F7163E&random=false&width=900&height=90&lines=QUIZ+GAME" alt="Typing SVG" /></a>
 
-# QUIZ GAME
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
+![GitHub forks](https://img.shields.io/github/forks/Ishpreet15/SCM_PG-04)
+![GitHub Repo stars](https://img.shields.io/github/stars/Ishpreet15/SCM_PG-04)
+![GitHub contributors](https://img.shields.io/github/contributors/Ishpreet15/SCM_PG-04)
+![GitHub last commit](https://img.shields.io/github/last-commit/Ishpreet15/SCM_PG-04)
+![GitHub repo size](https://img.shields.io/github/repo-size/Ishpreet15/SCM_PG-04)
+
+
+![GitHub issues](https://img.shields.io/github/issues/Ishpreet15/SCM_PG-04)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Ishpreet15/SCM_PG-04)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Ishpreet15/SCM_PG-04)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Ishpreet15/SCM_PG-04)
 
 ## Project Information 📃
-- **Primary Owner:** Ishpreet Kaur
-- **Secondary Owner:** Ishika Dhawan
-- **Tertiary Owner:** <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7233A&random=false&width=435&lines=Aniket+Singla" alt="Typing SVG" /></a>
+- `**Primary Owner:**`
+  </br> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7233A&random=false&width=435&lines=Ishpreet+Kaur" alt="Typing SVG" /></a>
+- `**Secondary Owner:**`
+  </br> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7233A&random=false&width=435&lines=Ishika+Dhawan" alt="Typing SVG" /></a>
+- `**Tertiary Owner:**`
+  </br> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7233A&random=false&width=435&lines=Aniket+Singla" alt="Typing SVG" /></a>
 
 ## 🚀 Team Members
 - **[Aniket Singla [2310992100] - @AniketSingla](https://github.com/AniketSingla)** 🧑‍💻
@@ -17,7 +33,7 @@ Dive into the world of knowledge with our interactive quiz game! Crafted with HT
 
 # Project Timeline
 
-## [26-4-2024] - Milestone 1
+## [26-4-2024] - ` Milestone 1 `
 
 - **Set up project repository**: Created the project repository on GitHub to facilitate collaboration among team members.
   
@@ -25,7 +41,7 @@ Dive into the world of knowledge with our interactive quiz game! Crafted with HT
   
 - **Initial design sketches**: Developed preliminary design sketches to visualize the user interface and user experience of the project.
   
-## [29-4-2024] - Milestone 2
+## [29-4-2024] -` Milestone 2 `
 
 - **Complete frontend development**: Finished implementing the user interface components and styling to ensure a polished and user-friendly interface.
   
@@ -33,7 +49,7 @@ Dive into the world of knowledge with our interactive quiz game! Crafted with HT
   
 - **Begin testing phase**: Initiated the testing phase to identify and resolve any bugs or issues before the final release.
 
-## [3-5-2024] - Milestone 3
+## [3-5-2024] -` Milestone 3 `
 
 - **Finish testing**: Conducted thorough testing of the application to ensure its stability, reliability, and performance under various scenarios.
   
@@ -41,7 +57,7 @@ Dive into the world of knowledge with our interactive quiz game! Crafted with HT
   
 - **Prepare for project submission**: Completed all necessary preparations, including packaging the application and organizing project files, for submission.
 
-## [10-5-2024] - Completion
+## [10-5-2024] -` Completion `
 
 - **Complete final checks**: Performed a final review and quality assurance checks to ensure all requirements were met and the project was ready for deployment.
   
